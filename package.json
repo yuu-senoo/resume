@@ -6,10 +6,12 @@
   "author": "YuuSenoo <kahunsho0@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "textlint . && markdownlint docs/*.md"
+    "lint": "textlint . && markdownlint docs/*.md",
+    "build:pdf": "md-to-pdf docs/${YOUR_RESUME}.md --config-file ./pdf-configs/config.js"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.33.0",
+    "md-to-pdf": "^5.2.3",
     "textlint": "^13.3.2",
     "textlint-rule-rousseau": "^1.4.8"
   }
