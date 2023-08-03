@@ -4,6 +4,8 @@
     "comments": true
   },
   "rules": {
-    "rousseau": true
+    "rousseau": {
+      "ignoreTypes": ["sentence:start", "sentence:uppercase"]
+    }
   }
 }
