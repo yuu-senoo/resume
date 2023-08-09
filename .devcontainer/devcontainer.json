@@ -1,0 +1,17 @@
+{
+  "name": "Node.js",
+  "dockerFile": "Dockerfile",
+
+  "customizations": {
+    "vscode": {
+      "extensions": ["esbenp.prettier-vscode", "unifiedjs.vscode-remark"],
+      "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+        "[markdown]": {
+          "editor.defaultFormatter": "unifiedjs.vscode-remark"
+        }
+      }
+    }
+  }
+}
