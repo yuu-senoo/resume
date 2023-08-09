@@ -1,18 +1,19 @@
-name: lint
+# TODO Lintについては日本語で使用できる良いLinterが見つかれば採用するが現状は無効化しておく
+# name: lint
 
-on: push
+# on: push
 
-jobs:
-  textlint:
-    name: lint
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: yarn
-      - run: yarn install
-      - run: yarn lint
+# jobs:
+#   textlint:
+#     name: lint
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#         with:
+#           ref: ${{ github.event.pull_request.head.sha }}
+#       - uses: actions/setup-node@v3
+#         with:
+#           node-version: 18
+#           cache: yarn
+#       - run: yarn install
+#       - run: yarn lint

@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "bullet": "*",
+    "ruleRepetition": 3,
+    "listItemIndent": "one"
+  }
+}
