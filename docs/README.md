@@ -52,7 +52,7 @@ CloudFormation, AWS CDK, Terraform
 
 ### その他
 
-GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, OpenAPI
+GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Accrete, Docker, OpenAPI,
 
 ## 執筆歴
 
@@ -68,30 +68,9 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 | 雇用形態 | 正社員         |
 | 在籍期間 | 2023/02 ~ 現在 |
 
-#### 電力会社顧客管理システムの課題解決（2024/08 ~ 現在）
-
-##### 役割
-
-- 開発 PM（PjM）
-
-##### 業務内容
-
--
-
-##### 技術スタック
-
-- 言語（フレームワーク）：
-- DB：
-- インフラ：
-- その他：
-
-##### 成果
-
--
-
-##### 得たもの
-
--
+| 期間           | 案件                               | 役割           | 使用技術                                                      |
+| -------------- | ---------------------------------- | -------------- | ------------------------------------------------------------- |
+| 2024/08 ~ 現在 | 電力会社顧客管理システムの課題解決 | 開発 PM（PjM） | 言語：PHP (Laravel)<br>DB：Aurora MySQL<br>インフラ：AWS, OCI |
 
 #### オークションシステムの追加開発・保守運用（2023/07 ~ 現在）
 
