@@ -70,8 +70,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 
 #### 電力会社顧客管理システムの課題解決（2024/08 ~ 現在）
 
-
-
 ##### 役割
 
 - 開発 PM（PjM）
@@ -96,8 +94,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 -
 
 #### オークションシステムの追加開発・保守運用（2023/07 ~ 現在）
-
-
 
 ##### 役割
 
@@ -125,8 +121,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 
 #### 商談サポート（2024/04 ~ 現在）
 
-
-
 ##### 役割
 
 - 商談サポーター
@@ -144,8 +138,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 -
 
 #### 採用（2023/02 ~ 現在）
-
-
 
 ##### 役割
 
@@ -165,8 +157,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 -
 
 #### 自動車整備ソフトウェアの課題解決（2024/02 ~ 2024/03）
-
-
 
 ##### 役割
 
@@ -193,8 +183,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 
 #### 車検管理システムの追加開発（2023/03 ~ 2023/04）
 
-
-
 ##### 役割
 
 - バックエンドエンジニア
@@ -220,8 +208,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 
 #### 債権管理システムの新規開発（2023/02 ~ 2023/08）
 
-
-
 ##### 役割
 
 - バックエンドエンジニア
@@ -246,8 +232,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 -
 
 #### ワンタグシステムの新規開発（2023/02 ~ 2024/01）
-
-
 
 ##### 役割
 
@@ -282,8 +266,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 
 #### BNPL サービスのシステム新規開発、追加開発（2022/04 ~ 2023/01）
 
-
-
 ##### 役割
 
 - フルスタックエンジニア（明確に役割はなかったがリードエンジニア的な立ち位置）
@@ -316,8 +298,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 
 #### BNPL サービスのシステム新規開発、追加開発（2019/10 ~ 2022/3）
 
-
-
 ##### 役割
 
 - フルスタックエンジニア（明確に役割はなかったがリードエンジニア的な立ち位置）
@@ -342,8 +322,6 @@ GitHub, GitLab, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Docker, Op
 -
 
 #### 決済ゲートウェイシステム新規開発（2019/06 ~ 2019/10）
-
-
 
 ##### 役割
 
