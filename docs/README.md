@@ -1,5 +1,3 @@
-# 職務経歴書
-
 ## 基本情報
 
 | 項目 | 内容 |
@@ -9,6 +7,8 @@
 | 性別 | 男 |
 | 居住地 | 岡山 |
 | 最終学齢 | 工業高校卒業 |
+
+--- 
 
 ## スキル
 
@@ -54,10 +54,14 @@ CloudFormation, AWS CDK, Terraform
 
 GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Accrete, Docker, OpenAPI, Cacoo, draw.io
 
+--- 
+
 ## 執筆歴
 
 - [Qiita](https://qiita.com/yuu-senoo)
 - [Wantedly](https://www.wantedly.com/companies/ks-rogers/post_articles/487850)
+
+--- 
 
 ## 経歴
 
@@ -125,4 +129,5 @@ GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid,
 
 - 若手の中で圧倒的に早い段階で発電所効率向上施策の企画・検証・提案の仕事を任されるようになり、企画から提案までの流れを早いうちから経験できたことで、考察力、文章力が向上し、相手に伝わる資料のまとめ方も自然と身につけることができた。
 - 明確な業務が一日を埋め尽くすような仕事の仕方ではないこともあり、やれることを見つけて空いた時間で勉強したり、業務改善を行ったりする日々を過ごしたことで、時間を有効活用するマインドを身につけることができた。
+
 </details>
