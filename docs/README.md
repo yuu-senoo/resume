@@ -78,13 +78,13 @@ GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid,
 
 | 期間 | 案件 | 役割 | 使用技術 | 業務内容 |
 | -- | -- | -- | -- | -- |
-| 2022/04 ~ 2023/01 | BNPLサービスのシステム新規開発、追加開発 | フルスタックエンジニア<br>※明確に役割はなかったがリードエンジニア的な立ち位置 | 言語： Java(SpringBoot)、Python、JavaScript(Vue.js) <br>DB：Aurora MySQL<br>インフラ：AWS<br>その他：Git、Confluence、Open API、Accrete | ・エンジニアメンバーへの技術支援<br>・基本設計<br>・詳細設計<br>・SPA開発<br>・REST API開発（コーディング～UAT）<br>・運用保守 |
+| 2022/04 ~ 2023/01 | BNPLサービスのシステム新規開発、追加開発 | フルスタックエンジニア（明確に役割はなかったがリードエンジニア的な立ち位置） | 言語： Java(SpringBoot)、Python、JavaScript(Vue.js) <br>DB：Aurora MySQL<br>インフラ：AWS<br>その他：Git、Confluence、Open API、Accrete | ・エンジニアメンバーへの技術支援<br>・基本設計<br>・詳細設計<br>・SPA開発<br>・REST API開発（コーディング～UAT）<br>・運用保守 |
 
 ### 株式会社ビュフォート（2019/02~2022/03：正社員）
 
 | 期間 | 案件 | 役割 | 使用技術 | 業務内容 |
 | -- | -- | -- | -- | -- |
-| 2019/10 ~ 2022/3 | BNPLサービスのシステム新規開発、追加開発 | フルスタックエンジニア<br>※明確に役割はなかったがリードエンジニア的な立ち位置 | 言語： Java(SpringBoot)、Python、JavaScript(Vue.js) <br>DB：Aurora MySQL<br>インフラ：AWS<br>その他：Git、Confluence、Open API、Accrete | ・エンジニアメンバーへの技術支援<br>・基本設計<br>・詳細設計<br>・SPA開発<br>・REST API開発（コーディング～UAT）<br>・運用保守 |
+| 2019/10 ~ 2022/3 | BNPLサービスのシステム新規開発、追加開発 | フルスタックエンジニア（明確に役割はなかったがリードエンジニア的な立ち位置） | 言語： Java(SpringBoot)、Python、JavaScript(Vue.js) <br>DB：Aurora MySQL<br>インフラ：AWS<br>その他：Git、Confluence、Open API、Accrete | ・エンジニアメンバーへの技術支援<br>・基本設計<br>・詳細設計<br>・SPA開発<br>・REST API開発（コーディング～UAT）<br>・運用保守 |
 | 2019/06 ~ 2019/10 | 決済ゲートウェイシステム新規開発 | バックエンドエンジニア | 言語： Java(Jersey)、 Python<br>DB：Aurora MySQL<br>インフラ：AWS<br>その他：Git、Redmine | ・基本設計<br>・詳細設計<br>・REST API開発（コーディング～UAT） |
 | 2019/02 ~ 2019/05 | 某大手建設会社の基幹システムリプレース案件 | バックエンドエンジニア | 言語：Java(TERASOLUNA)<br>DB：DB2<br>インフラ：オンプレ<br>その他：Git、Redmine | 帳票機能のバックエンド開発（コーディング～単体テスト） |
 
