@@ -8,9 +8,9 @@
 | 居住地 | 岡山 |
 | 最終学齢 | 工業高校卒業 |
 
---- 
-
 ## スキル
+
+--- 
 
 ### 開発手法
 
@@ -54,16 +54,16 @@ CloudFormation, AWS CDK, Terraform
 
 GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Accrete, Docker, OpenAPI, Cacoo, draw.io
 
---- 
-
 ## 執筆歴
+
+--- 
 
 - [Qiita](https://qiita.com/yuu-senoo)
 - [Wantedly](https://www.wantedly.com/companies/ks-rogers/post_articles/487850)
 
---- 
-
 ## 経歴
+
+--- 
 
 ### K.S.ロジャース株式会社（2023/02~現在：正社員）
 
