@@ -24,7 +24,7 @@ HTML, CSS(Sass), JavaScript(Vue.js)
 
 #### バックエンド
 
-Java(SpringBoot, TERASOLUNA, Struts2), Golang(go-chi), PHP(CakePHP), Python
+Java(SpringBoot, TERASOLUNA, Struts2), Golang(go-chi), PHP(CakePHP, Laravel), Python
 
 ### データベース
 
@@ -40,7 +40,7 @@ Redis, Memcached, MongoDB, Amazon DynamoDB
 
 #### Amazon Web Services（AWS）
 
-EC2, ECS(Fargate, EC2), ECR, Step Functions, SNS, SQS, SES, Lambda, RDS(Aurora), DynamoDB, Elasticache(Redis, Memcached), API Gateway, EventBridge, CloudWatch, CloudFormation, Route53, VPC, CloudFront, S3, Athena, IAM, CodeCommit, CodeBuild, CodeDeploy, CodePipeline
+EC2, ECS(Fargate, EC2), ECR, Step Functions, SNS, SQS, SES, Lambda, RDS(Aurora), DynamoDB, Elasticache(Redis, Memcached), API Gateway, EventBridge, CloudWatch, CloudFormation, Route53, VPC, CloudFront, S3, Athena, IAM, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, OpenSearch
 
 #### Google Cloud
 
@@ -52,7 +52,7 @@ CloudFormation, AWS CDK, Terraform
 
 ### その他
 
-GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Accrete, Docker, OpenAPI,
+GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid, Accrete, Docker, OpenAPI, Cacoo, draw.io
 
 ## 執筆歴
 
@@ -89,15 +89,15 @@ GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid,
 | 2019/02 ~ 2019/05 | 某大手建設会社の基幹システムリプレース案件 | バックエンドエンジニア | 言語：Java(TERASOLUNA)<br>DB：DB2<br>インフラ：オンプレ<br>その他：Git、Redmine | 帳票機能のバックエンド開発（コーディング～単体テスト） |
 
 <details>
-  <summary>Appendix</summary>
+<summary>▼ Appendix</summary>
 
-  #### 成果
+#### 成果
 
-  - 初めての開発案件でありながらも、業務時間外も自発的に学習を重ね、開発メンバーの実装サポートや開発に関するお客様とのコミュニケーションなども行えるようになったことでお客様やメンバーから高い評価を得ることができた。
+- 初めての開発案件でありながらも、業務時間外も自発的に学習を重ね、開発メンバーの実装サポートや開発に関するお客様とのコミュニケーションなども行えるようになったことでお客様やメンバーから高い評価を得ることができた。
 
-  #### 得たもの
+#### 得たもの
 
-  - 自身のキャリアの礎になるシステム開発の基礎を習得することができた。
+- 自身のキャリアの礎になるシステム開発の基礎を習得することができた。
 
 </details>
 
@@ -114,15 +114,15 @@ GitHub, GitLab, GitBucket, Backlog, Confluence, Jira, Redmine, Notion, SendGrid,
 | 2015/04 ~ 2018/09 | 火力発電所発電員 | ・火力発電所の発電員（オペレーター）としての日常監視・日常点検、燃料調整（発電電力量調整）、トラブル対応<br>・ドキュメントの整備<br>・新入社員の教育<br>・発電所効率向上施策の企画・検証・提案<br>・改善提案 |
 
 <details>
-  <summary>Appendix</summary>
+<summary>▼ Appendix</summary>
 
-  #### 成果
+#### 成果
 
-  - 新入社員の教育担当として新入社員教育、教育スケジュールの作成を担当し、各々に合った教育スケジュールを作成することで苦手分野の克服、得意分野の確立を補助して一人前の発電員を育てることができた。
-  - 自発的に改善提案書を３件提出し、それら全てが採用され設備改善や業務の効率化を図ることができた。
+- 新入社員の教育担当として新入社員教育、教育スケジュールの作成を担当し、各々に合った教育スケジュールを作成することで苦手分野の克服、得意分野の確立を補助して一人前の発電員を育てることができた。
+- 自発的に改善提案書を３件提出し、それら全てが採用され設備改善や業務の効率化を図ることができた。
 
-  #### 得たもの
+#### 得たもの
 
-  - 若手の中で圧倒的に早い段階で発電所効率向上施策の企画・検証・提案の仕事を任されるようになり、企画から提案までの流れを早いうちから経験できたことで、考察力、文章力が向上し、相手に伝わる資料のまとめ方も自然と身につけることができた。
-  - 明確な業務が一日を埋め尽くすような仕事の仕方ではないこともあり、やれることを見つけて空いた時間で勉強したり、業務改善を行ったりする日々を過ごしたことで、時間を有効活用するマインドを身につけることができた。
+- 若手の中で圧倒的に早い段階で発電所効率向上施策の企画・検証・提案の仕事を任されるようになり、企画から提案までの流れを早いうちから経験できたことで、考察力、文章力が向上し、相手に伝わる資料のまとめ方も自然と身につけることができた。
+- 明確な業務が一日を埋め尽くすような仕事の仕方ではないこともあり、やれることを見つけて空いた時間で勉強したり、業務改善を行ったりする日々を過ごしたことで、時間を有効活用するマインドを身につけることができた。
 </details>
